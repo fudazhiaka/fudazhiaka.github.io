@@ -41,5 +41,6 @@ My research interests include anomaly/outlier detection, reward modeling, and ru
    *ICML 2026*
 
 4. **CLUBench: A Clustering Benchmark**  
-   Feng Xiao*, Dazhi Fu*, Chris Ding, Jicong Fan
+   Feng Xiao*, Dazhi Fu*, Chris Ding, Jicong Fan  
    *KDD 2026*
+
