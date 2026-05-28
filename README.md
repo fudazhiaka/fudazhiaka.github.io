@@ -20,12 +20,6 @@ My research interests include anomaly/outlier detection, reward modeling, and ru
 - **2020.09 - 2024.06**  
   B.Eng. in Software Engineering, University of Electronic Science and Technology of China
 
-## Research interests
-
-- Anomaly detection and outlier detection
-- Reward modeling for large language models
-- Rubric generation for large language models
-
 ## Selected publications
 
 1. **Dense Projection for Anomaly Detection**  
